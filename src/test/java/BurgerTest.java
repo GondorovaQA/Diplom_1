@@ -1,8 +1,10 @@
-package praktikum;
-
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
+import praktikum.Bun;
+import praktikum.Burger;
+import praktikum.Ingredient;
+import praktikum.IngredientType;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
